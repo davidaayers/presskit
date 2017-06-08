@@ -1,26 +1,25 @@
-title: "Company Name"
-founded: "September 1, 2010"
-website: "website.com"
-city: "Cityville, Metropolisland"
-press: "press-contact@company.com"
-phone: "+00 (1) 22 33 44 55 66"
-address: 
-  - "Address Line 1"
-  - "Address Line 2"
-  - "Address Line 3"
+title: "Furiously Inactive Games, LLC"
+founded: "June 13, 2014"
+website: "http://furiouslyinactive."
+city: "Dallas, TX"
+press: "press@furiouslyinactive.com"
+phone: "(972) 855-8624"
 
 social: 
-  twitter: "MyTwitter"
-  facebook: "MyCompanyName"
-  skype: "callto:MySkypeName"
+  twitter: "wedesigngames"
+  facebook: "furiouslyinactive"
 
-description: "We're a games studio and we make games. We're also capable of editing YAML files."
+description: "We make games! Currently working on &quot;We Slay Monsters&quot;."
 
 history: 
   - header: "Early history"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nisi dolor. Pellentesque vitae eros velit, quis venenatis orci. Phasellus elit urna, semper ut gravida et, porta non dui. Aliquam erat volutpat. Aenean porta volutpat imperdiet. Maecenas venenatis, tellus eget vehicula vulputate, augue erat elementum quam, tincidunt laoreet magna orci et mauris. Proin porttitor pharetra nisi, accumsan sollicitudin neque varius a. Aenean ut massa ipsum, id hendrerit lacus. Maecenas posuere egestas nunc at cursus. Etiam mollis libero vel eros pulvinar aliquam. Sed vitae turpis sed nibh venenatis dictum. Sed suscipit orci justo, at sagittis ante. Sed leo nisl, ultricies in fermentum id, aliquam id dolor. Ut laoreet, felis id posuere bibendum, arcu ipsum lacinia est, eu lobortis velit enim eget mi. In ullamcorper ullamcorper enim ut gravida. Vivamus rutrum lacus mollis risus malesuada iaculis."
-  - header: "After that"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan."
+    text: "Hi! I'm David, one of the founders of Furiously Inactive Games.  This all started when I was 13 and I got my first computer, a Vic-20.  I  saved up all of my Christmas and birthday money and paid for it myself.  I taught myself Basic, got a subscription to Compute's Gazzette and typed in all of the programs that were published there, then started making my own game. When Basic wasn't fast enough, I taught myself assembler. Even then, I was a giant nerd. Alas, my career pulled me in a different direction and I ultimately ended up working in corporate software development, building eCommerce systems and point of sale solutions, which has been super interesting and tons of fun."
+  - header: "Fast Forward Many Years"
+    text: "I met Nik, and we decided we should work on games together. We started messing around with j2me and phone
+        games, and helped our friends at Klear Games build an online game for the movie &quot;Cry Wolf&quot; (a game whose popularity far
+        outlasted the movie's run in the theaters).  We worked on, but never fully finished many games. We did some game jams and some contests. Then I got married, and lo and behold my lovely new wife's brother, Ray, turned out to be an excellent artist, and we finally had 
+        all of the ingredients to actually make a game.  For the last several years we have been working on &quot;We Slay Monsters&quot;, and it has
+        been a wild ride."
 
 trailers: 
   - name: "This video is nice"
